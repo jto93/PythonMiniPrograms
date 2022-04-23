@@ -1,4 +1,5 @@
 #Simple Text Editor built in tkinter for Windows using Codemy.com's lessons
+# Pick up here: https://www.youtube.com/watch?v=CtENi3AhuY4&ab_channel=Codemy.com
 
 from tkinter import *
 from tkinter import filedialog
